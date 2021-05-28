@@ -6,6 +6,7 @@
 \usepackage{graphicx}				% Use pdf, png, jpg, or eps§ with pdflatex; use eps in DVI mode
 								% TeX will automatically convert eps --> pdf in pdflatex		
 \usepackage{amssymb}
+\graphicspath{{/Users/ananyarao/Desktop/Excel-Notes/images_excel_notes/}}
 
 %SetFonts
 
@@ -137,10 +138,59 @@ TIP : Do not be afraid to jump between the sheet and print preview to see how ex
 \end{itemize}
 \section{CHARTS}
 \subsection{ Creating Charts}
-
-%\section{}
-%\subsection{}
-
-
-
+\begin{itemize}
+\item TIP: Highlight the data you want to represent as a chart. Leave out the total columns as these may cause problems. Always include the data at the top of the columns and to the left of the rows.\\
+\bigskip \\
+\includegraphics{data.png}
+\bigskip \\
+\item Alt + F1 is the keystroke shortcut to create a clustered column chart.
+\bigskip \\
+\includegraphics{chart.png}
+\bigskip \\
+\item To resize the chart while maintaining the same ratio of height to width : while holding the SHIFT key, drag upper-left corner to the required size.
+\item Similarly, an Alt + drag causes the boundaries of the chart to match up with the cell boundaries in the background. 
+\item To create a chart on a new sheet : Use the key F11.
+\item A more standardized method to create charts is by going to Insert -- Recommended Charts.
+\item Also, when you highlight data with numbers, a quick analysis button pops up at the bottom right which can also be used to create charts. \\
+\bigskip \\
+\includegraphics{quick_analysis}
+\bigskip \\
+\item Remember : The chart is always in-sync with the data! When data changes, so does the chart.
+\end{itemize}
+\subsection{Exploring Chart types}
+\begin{itemize}
+\item Under the Design tab in ChartTools : choose the "Switch Row/Columns" option to switch what is represented on the axes of the chart. \\
+\bigskip\\
+\includegraphics{move_row_1} \\
+\bigskip\\
+\includegraphics{move_row_2}
+\bigskip \\
+\item To duplicate a chart use the shortcut Cntrl + D
+\item If you are dealing with timeframes (ex. Months) use a Line Chart to represent data.
+\item You can change the meaning of a chart by changing the size. Example : The trend may look more incremental.
+\end{itemize}
+\subsection{Working with Excel Ideas}
+\begin{itemize}
+\item Ideas is located in the far right of the home tab. Mostly charts and pivot charts are suggested. The aim of this option is to give "ideas" on how me may analyze our data.
+\item NOTE : Not all suggestions will be perfect, so be mindful of that!
+\end{itemize}
+\section{ADJUSTING WORKSHEET VIEWS}
+\subsection{Freezing and Unfreezing panes}
+\begin{itemize}
+\item You can freeze certain rows/columns by going to the tab View -- Freeze Panes.
+\item Note : This feature has nothing to do with Printing.
+\item useful when you need to freeze first row or/and column, to have context of your data as you scroll through the worksheet,
+\item Note : This feature does not work with undo-redo.
+\item TIP : To freeze both the first row and column : Click on cell B2 and select the freeze panes option. Everything one row above and to the left gets frozen.
+\end{itemize}
+\subsection{Splitting screens horizontally and vertically}
+\begin{itemize}
+\item Using the split function found in the VIEW tab : we can split the sheet vertically or horizontally to simultaneously scroll through two parts of the sheet.
+\bigskip\\
+\includegraphics[scale=0.5]{splitScreen}
+\bigskip\\
+\item To split vertically : Click on the column letter from which you want the split to occur.
+\item To exit the split preview : double click on the split line or click on the split feature again.
+\item If you click on a cell that is not at the edge of the sheet, Excel gives you a four-way split starting from the selected cell. You are likely to not use this as it is quite confusing. 
+\end{itemize}
 \end{document}  
