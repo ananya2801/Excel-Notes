@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}ENTERING DATA}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Exploring Data entry, Editing, and AutoFill}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Working with Dates and Times}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Undo \& Redo}{4}{}%
+\contentsline {section}{\numberline {2}FORMULAS AND FUNCTIONS}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Using Simple Formulas}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Copying a formula into adjacent cells}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Using SUM and AVERAGE}{4}{}%
+\contentsline {subsection}{\numberline {2.4}XLOOKUP and lookup functions}{5}{}%
+\contentsline {section}{\numberline {3}FORMATTING}{5}{}%
+\contentsline {section}{\numberline {4}ADJUSTING WORKSHEET LAYOUT AND DATA}{5}{}%
+\contentsline {subsection}{\numberline {4.1}Rows and columns: Insert, delete, hide, and unhide}{5}{}%
+\contentsline {subsection}{\numberline {4.2}Moving copying and Inserting Data}{6}{}%
+\contentsline {subsection}{\numberline {4.3}Finding and replacing data}{6}{}%
+\contentsline {section}{\numberline {5}PRINTING}{6}{}%
+\contentsline {subsection}{\numberline {5.1}Page Layout view and commands}{6}{}%
+\contentsline {subsection}{\numberline {5.2}Page Break Preview and print setup options}{6}{}%
+\contentsline {section}{\numberline {6}CHARTS}{7}{}%
+\contentsline {subsection}{\numberline {6.1} Creating Charts}{7}{}%
+\contentsline {subsection}{\numberline {6.2}Exploring Chart types}{8}{}%
+\contentsline {subsection}{\numberline {6.3}Working with Excel Ideas}{10}{}%
+\contentsline {section}{\numberline {7}ADJUSTING WORKSHEET VIEWS}{10}{}%
+\contentsline {subsection}{\numberline {7.1}Freezing and Unfreezing panes}{10}{}%
+\contentsline {subsection}{\numberline {7.2}Splitting screens horizontally and vertically}{10}{}%
+\contentsline {section}{\numberline {8}MULTIPLE WORKSHEETS AND WORKBOOKS}{11}{}%
+\contentsline {subsection}{\numberline {8.1} Renaming, Inserting and Deleting sheets}{11}{}%
+\contentsline {subsection}{\numberline {8.2} Moving, copying and grouping sheets}{11}{}%
+\contentsline {section}{\numberline {9}DATA MANAGEMENT FEATURES}{12}{}%
+\contentsline {subsection}{\numberline {9.1}Sorting Data}{12}{}%
+\contentsline {subsection}{\numberline {9.2}Using filters}{13}{}%
+\contentsline {subsection}{\numberline {9.3}Creating PivotTables}{13}{}%
+\contentsline {subsection}{\numberline {9.4}New Data Types coming to Excel for 365}{15}{}%

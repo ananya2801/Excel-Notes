@@ -34,12 +34,13 @@ Notes based on LinkedIn Learning course : Excel Essential Training (Office 365/M
 \let \newpage \snewpage
 \vfill 
 \pagebreak
+\tableofcontents
 \section {ENTERING DATA} 
 \subsection{Exploring Data entry, Editing, and AutoFill}
 \begin{itemize}
-\item To completely replace contents of a single cell, click once, and simply begin typing. \\
-\item To edit contents of a single cell, either double click on the cell or click once and edit using the formula bar. \\
-\item Numerical entries always align to the right.\\
+\item To completely replace contents of a single cell, click once, and simply begin typing. 
+\item To edit contents of a single cell, either double click on the cell or click once and edit using the formula bar. 
+\item Numerical entries always align to the right.
 \bigskip \\
 \indent TIP : Use tab to move to the next (to the right) cell. \\
 \item Autofill for months: \\
@@ -192,5 +193,83 @@ TIP : Do not be afraid to jump between the sheet and print preview to see how ex
 \item To split vertically : Click on the column letter from which you want the split to occur.
 \item To exit the split preview : double click on the split line or click on the split feature again.
 \item If you click on a cell that is not at the edge of the sheet, Excel gives you a four-way split starting from the selected cell. You are likely to not use this as it is quite confusing. 
+\end{itemize}
+\section{MULTIPLE WORKSHEETS AND WORKBOOKS}
+\subsection{ Renaming, Inserting and Deleting sheets}
+\begin{itemize}
+\item Double click a sheet on the sheet tab to rename it.
+\item Keyboard shortcut for a new sheet : shift + F11.
+\item REMEMBER : Once a sheet is deleted this action cannot be undone.
+\item To hide a sheet : Right click a sheet tab and choose the hide option. To unhide : right click on any sheet tab and choose the unhide option. 
+\item You can only unhide one sheet at a time.
+\end{itemize}
+\subsection{ Moving, copying and grouping sheets}
+\begin{itemize}
+\item To reorder sheets, simply drag them to required position in the sheet tabs.
+\item To make a copy of the sheet : cntrl + drag
+\item To move/copy a sheet to a new workbook : right click required sheet and choose the Move or Copy option.
+\item Tip : If you want to make changes to multiple sheets, you can group them. 
+\item To group sheets that are adjacent : Click on the first sheet you want in your group, hold down the shift key and drag across the sheets you want to group. For non-adjacent sheets : hold the cntrl key and click the sheets you want to group.
+\item Any change you make to one sheet will now be reflected on all the grouped sheets.
+\item To confirm that you are working with grouped sheets, look at the name of the workbook -- 'Group' should appear next to it.
+\bigskip \\
+\includegraphics[scale=0.6]{group}
+\bigskip \\
+\item BE CAREFUL! In the group mode, making changes to one cell in one sheet will change the value of that same cell in all the grouped sheets. This may or not may be your intention so always keep an eye out for it.
+\item To ungroup: either right click on a sheet in the group and choose the ungroup option, or simply click on a sheet that is not in the group.
+\end{itemize}
+\section{DATA MANAGEMENT FEATURES}
+\subsection{Sorting Data}
+\begin{itemize}
+\item Always make sure to separate the data you want to sort with a delineated empty column on the right. Then, you can either highlight the data or simply click within the data before you start using the sort commands.
+\item To double check the data being sorted ,click within the data and press Cntrl + A (A for all), then press cntrl + . (period) a few times to view the corners of the data.
+\item To sort -- go to the Data tab -- and click on the sort function. Make sure to check the "My Data has headers" box if required.
+\item You may need to add levels to your sorting. Think if it as sorting within sorting.
+\bigskip\\
+\includegraphics[scale=1.2]{sort_levels}
+\bigskip\\
+\item Note : The quick sort buttons remember the previous sort order when they override it. This also maintains levels of sorting like the above function. You may use the quick sort buttons in succession to get these levels.
+\end{itemize}
+\subsection{Using filters}
+\begin{itemize}
+\item TIP: Before using the filter option, make sure your data has no empty columns or rows within it.
+\item Once you click within the required data and choose "Filter" from the data tab, drop down menus appear next to each column name.
+\item Note: Filter does not only check for equality and can also filter based on other logical operations such as "Greater than" etc.
+\item Filtering for date values has many useful options such as "Tomorrow", "Next Week", "This Year", "May" etc.
+\end{itemize}
+\subsection{Creating PivotTables}
+\begin{itemize}
+\item TIP: Make sure your data has no empty columns or rows within it.
+\item Pivot table is useful for making quick calculations without using formulas. Create pivot tables by going to the Insert tab and click "PivotTable".
+\item Some examples of using pivotTables. \\
+\bigskip \\
+Simply selecting some columns to show. \\
+\bigskip \\
+\includegraphics[scale=0.6]{pivot_simple}
+\bigskip \\
+Filtering based on region \\
+\bigskip \\
+\includegraphics[scale=0.6]{pivot_column}
+\bigskip\\
+\item In the pivotTable mode : go to the Design Tab -- Report Layout -- outline form to show the actual column field names in your table. \\
+\bigskip \\
+Filtering with Region and Product. \\
+\bigskip\\
+\includegraphics[scale=0.6]{pivot_two}
+\bigskip\\
+\item NOTE: Making changes to the source data does not adjust the pivot table automatically. You either need to use the "Refresh" option under the Analyze tab or use the keystroke shortcut alt + F5. You should periodically refresh your pivot tables.
+\end{itemize}
+\subsection{New Data Types coming to Excel for 365}
+\begin{itemize}
+\item The idea of this feature is to pull information from external sources (e.g. The internet) in real time. 
+\item NOTE: It may be advantageous to convert lists into a table to be able to perform additional operations on it.
+\item To transform a list into a table, select the required cells and use the keystroke shortcut Cntrl + T.
+\item Highlight your table, and click on the data type you want. Example : Food. From here you can get information such as "Calories per serving" etc .
+\item Add new columns with required info by clicking on the column icon that appears next to column names. 
+\bigskip\\
+\includegraphics{food_data_type}
+\bigskip\\
+\item You can also create your own data types!
+\item Useful when you need to display some data and not all.  Highlight your table data, go to the Data Tab and choose the "From Table Range" option on the far left of the screen. Then click the Create Data Type option on the far right of the screen.
 \end{itemize}
 \end{document}  
