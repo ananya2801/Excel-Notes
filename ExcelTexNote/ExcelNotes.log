@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.11)  30 MAY 2021 20:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.11)  1 JUN 2021 00:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -175,225 +175,259 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Exce
-lNotes.toc)
+lNotes.toc
+[2])
 \tf@toc=\write3
 \openout3 = `ExcelNotes.toc'.
 
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 43--46
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
 
  []
 
-[4] [5] [6]
-</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//data.png, id=27, 249.
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+[5] [6] [7]
+</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//data.png, id=31, 249.
 93375pt x 137.51375pt>
 File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//data.png Graphic
  file (type png)
 <use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//data.png>
 Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
-s//data.png  used on input line 145.
+s//data.png  used on input line 146.
 (pdftex.def)             Requested size: 249.93314pt x 137.51341pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--147
+Underfull \hbox (badness 10000) in paragraph at lines 144--148
 
  []
 
-</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//chart.png, id=29, 314
+</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//chart.png, id=33, 314
 .17375pt x 188.705pt>
 File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//chart.png Graphi
 c file (type png)
 <use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//chart.png>
 Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
-s//chart.png  used on input line 149.
+s//chart.png  used on input line 150.
 (pdftex.def)             Requested size: 314.17297pt x 188.70453pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--151
+Underfull \hbox (badness 10000) in paragraph at lines 148--152
 
  []
 
-[7 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//data.png> </Users/
+[8 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//data.png> </Users/
 ananyarao/Desktop/Excel-Notes/images_excel_notes//chart.png>]
 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//quick_analysis.png, i
-d=36, 207.77625pt x 237.88875pt>
+d=39, 207.77625pt x 237.88875pt>
 File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//quick_analysis.p
 ng Graphic file (type png)
 <use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//quick_analysis.pn
 g>
 Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
-s//quick_analysis.png  used on input line 157.
+s//quick_analysis.png  used on input line 158.
 (pdftex.def)             Requested size: 207.77573pt x 237.88815pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--159
+Underfull \hbox (badness 10000) in paragraph at lines 156--160
 
  []
 
-</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//move_row_1.png, id=37
+</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//move_row_1.png, id=40
 , 333.245pt x 211.79124pt>
 File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//move_row_1.png G
 raphic file (type png)
 <use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//move_row_1.png>
 Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
-s//move_row_1.png  used on input line 165.
+s//move_row_1.png  used on input line 166.
 (pdftex.def)             Requested size: 333.24417pt x 211.79073pt.
-</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//move_row_2.png, id=38
+</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//move_row_2.png, id=41
 , 333.245pt x 211.79124pt>
 File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//move_row_2.png G
 raphic file (type png)
 <use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//move_row_2.png>
 Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
-s//move_row_2.png  used on input line 167.
+s//move_row_2.png  used on input line 168.
 (pdftex.def)             Requested size: 333.24417pt x 211.79073pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--169
+Underfull \hbox (badness 10000) in paragraph at lines 164--170
 
  []
 
-[8 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//quick_analysis.png
->] [9 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//move_row_1.png>
- </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//move_row_2.png>]
-</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//splitScreen.png, id=4
-8, 718.685pt x 366.36874pt>
+[9 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//quick_analysis.png
+>] [10 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//move_row_1.png
+> </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//move_row_2.png>]
+</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//splitScreen.png, id=5
+1, 718.685pt x 366.36874pt>
 File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//splitScreen.png 
 Graphic file (type png)
 <use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//splitScreen.png>
 Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
-s//splitScreen.png  used on input line 191.
+s//splitScreen.png  used on input line 192.
 (pdftex.def)             Requested size: 359.34161pt x 183.18391pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--193
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
 
  []
 
-[10 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//splitScreen.png>]
-</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//group.png, id=53, 717
+[11 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//splitScreen.png>]
+</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//group.png, id=56, 717
 .68124pt x 404.51125pt>
 File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//group.png Graphi
 c file (type png)
 <use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//group.png>
 Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
-s//group.png  used on input line 216.
+s//group.png  used on input line 217.
 (pdftex.def)             Requested size: 430.61206pt x 242.70862pt.
 
-Overfull \hbox (27.9825pt too wide) in paragraph at lines 214--218
+Overfull \hbox (27.9825pt too wide) in paragraph at lines 215--219
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--218
+Underfull \hbox (badness 10000) in paragraph at lines 215--219
 
  []
 
-[11] [12 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//group.png>]
+[12] [13 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//group.png>]
 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//sort_levels.png, id=6
-1, 289.08pt x 133.49875pt>
+5, 289.08pt x 133.49875pt>
 File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//sort_levels.png 
 Graphic file (type png)
 <use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//sort_levels.png>
 Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
-s//sort_levels.png  used on input line 229.
+s//sort_levels.png  used on input line 230.
 (pdftex.def)             Requested size: 346.89426pt x 160.19766pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--231
+Underfull \hbox (badness 10000) in paragraph at lines 228--232
 
  []
 
 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_simple.png, id=
-62, 705.63625pt x 271.0125pt>
+66, 705.63625pt x 271.0125pt>
 File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_simple.png
  Graphic file (type png)
 <use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_simple.png>
 
 Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
-s//pivot_simple.png  used on input line 248.
+s//pivot_simple.png  used on input line 249.
 (pdftex.def)             Requested size: 423.38501pt x 162.60875pt.
 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_column.png, id=
-63, 713.66624pt x 250.9375pt>
+67, 713.66624pt x 250.9375pt>
 File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_column.png
  Graphic file (type png)
 <use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_column.png>
 
 Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
-s//pivot_column.png  used on input line 252.
+s//pivot_column.png  used on input line 253.
 (pdftex.def)             Requested size: 428.20305pt x 150.56364pt.
 
-Overfull \hbox (20.75545pt too wide) in paragraph at lines 244--254
+Overfull \hbox (20.75545pt too wide) in paragraph at lines 245--255
 []
  []
 
 
-Overfull \hbox (25.57349pt too wide) in paragraph at lines 244--254
+Overfull \hbox (25.57349pt too wide) in paragraph at lines 245--255
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--254
+Underfull \hbox (badness 10000) in paragraph at lines 245--255
 
  []
 
-[13 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//sort_levels.png>]
-</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_two.png, id=69,
+[14 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//sort_levels.png>]
+</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_two.png, id=72,
  721.69624pt x 404.51125pt>
 File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_two.png Gr
 aphic file (type png)
 <use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_two.png>
 Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
-s//pivot_two.png  used on input line 258.
+s//pivot_two.png  used on input line 259.
 (pdftex.def)             Requested size: 433.02109pt x 242.70862pt.
 
-Overfull \hbox (30.39153pt too wide) in paragraph at lines 254--260
+Overfull \hbox (30.39153pt too wide) in paragraph at lines 255--261
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--260
+Underfull \hbox (badness 10000) in paragraph at lines 255--261
 
  []
 
-[14 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_simple.png>
+[15 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_simple.png>
  </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_column.png>]
 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//food_data_type.png, i
-d=75, 169.63374pt x 225.84375pt>
+d=78, 169.63374pt x 225.84375pt>
 File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//food_data_type.p
 ng Graphic file (type png)
 <use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//food_data_type.pn
 g>
 Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
-s//food_data_type.png  used on input line 270.
+s//food_data_type.png  used on input line 271.
 (pdftex.def)             Requested size: 169.63332pt x 225.84319pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--272
+Underfull \hbox (badness 10000) in paragraph at lines 269--273
 
  []
 
-[15 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_two.png>]
-[16 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//food_data_type.pn
-g>] (./ExcelNotes.aux) ) 
+[16 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//pivot_two.png>]
+Overfull \hbox (0.63509pt too wide) in paragraph at lines 282--283
+[]\OT1/cmr/m/n/10.95 Under the for-mat cells op-tion -- Pro-tec-tion -- You wil
+l no-tice that all cells are "Locked".
+ []
+
+[17 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//food_data_type.pn
+g>]
+</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//share.png, id=87, 260
+.975pt x 162.6075pt>
+File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//share.png Graphi
+c file (type png)
+<use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//share.png>
+Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
+s//share.png  used on input line 290.
+(pdftex.def)             Requested size: 260.97437pt x 162.6071pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--292
+
+ []
+
+</Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//track.png, id=88, 382
+.42876pt x 121.45375pt>
+File: /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//track.png Graphi
+c file (type png)
+<use /Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//track.png>
+Package pdftex.def Info: /Users/ananyarao/Desktop/Excel-Notes/images_excel_note
+s//track.png  used on input line 299.
+(pdftex.def)             Requested size: 382.42781pt x 121.45343pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--301
+
+ []
+
+[18 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//share.png>]
+[19 </Users/ananyarao/Desktop/Excel-Notes/images_excel_notes//track.png>]
+(./ExcelNotes.aux) ) 
 Here is how much of TeX's memory you used:
- 2316 strings out of 478994
- 36130 string characters out of 5858184
+ 2330 strings out of 478994
+ 36864 string characters out of 5858184
  328304 words of memory out of 5000000
- 19801 multiletter control sequences out of 15000+600000
+ 19815 multiletter control sequences out of 15000+600000
  411483 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,6n,74p,348b,215s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-
-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/
-sfrm1095.pfb>
-Output written on ExcelNotes.pdf (16 pages, 3188619 bytes).
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-supe
+r/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm
+1095.pfb>
+Output written on ExcelNotes.pdf (19 pages, 3467064 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 120 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
